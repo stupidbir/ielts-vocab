@@ -1,0 +1,665 @@
+{
+  "chapter3": {
+    "name": "雅思听力特别名词语料库",
+    "horizontal": [
+      {
+        "test": "Test 1",
+        "words": [
+          {
+            "word": "appearance",
+            "phonetic": "[ə'pɪərəns]",
+            "meaning": "外貌；出现"
+          },
+          {
+            "word": "area",
+            "phonetic": "['eəriə]",
+            "meaning": "地区；面积"
+          },
+          {
+            "word": "argument",
+            "phonetic": "['ɑːɡjumənt]",
+            "meaning": "争论；论证"
+          },
+          {
+            "word": "article",
+            "phonetic": "['ɑːtɪkl]",
+            "meaning": "文章；条款"
+          },
+          {
+            "word": "aspirin",
+            "phonetic": "['æspərɪn]",
+            "meaning": "阿司匹林"
+          },
+          {
+            "word": "assignment",
+            "phonetic": "['əsaɪnmənt]",
+            "meaning": "作业；分配"
+          },
+          {
+            "word": "atlas",
+            "phonetic": "['ætləs]",
+            "meaning": "地图集"
+          },
+          {
+            "word": "average",
+            "phonetic": "['ævərɪdʒ]",
+            "meaning": "平均；普通的"
+          },
+          {
+            "word": "award",
+            "phonetic": "['əwɔːd]",
+            "meaning": "奖；授予"
+          }
+        ]
+      },
+      {
+        "test": "Test 2",
+        "words": [
+          {
+            "word": "bachelor",
+            "phonetic": "['bætʃələ]",
+            "meaning": "学士；单身汉"
+          },
+          {
+            "word": "background",
+            "phonetic": "['bækɡraʊnd]",
+            "meaning": "背景"
+          },
+          {
+            "word": "bacteria",
+            "phonetic": "[bæk'tɪəriə]",
+            "meaning": "细菌"
+          },
+          {
+            "word": "balance",
+            "phonetic": "['bæləns]",
+            "meaning": "平衡"
+          },
+          {
+            "word": "band",
+            "phonetic": "[bænd]",
+            "meaning": "乐队；带"
+          },
+          {
+            "word": "bandage",
+            "phonetic": "['bændɪdʒ]",
+            "meaning": "绷带"
+          },
+          {
+            "word": "basis",
+            "phonetic": "['beɪsɪs]",
+            "meaning": "基础"
+          },
+          {
+            "word": "bath",
+            "phonetic": "[bɑːθ]",
+            "meaning": "沐浴"
+          },
+          {
+            "word": "battery",
+            "phonetic": "['bætri]",
+            "meaning": "电池"
+          }
+        ]
+      },
+      {
+        "test": "Test 3",
+        "words": [
+          {
+            "word": "beach",
+            "phonetic": "[biːtʃ]",
+            "meaning": "海滩"
+          },
+          {
+            "word": "beard",
+            "phonetic": "[bɪəd]",
+            "meaning": "胡须"
+          },
+          {
+            "word": "beast",
+            "phonetic": "[biːst]",
+            "meaning": "野兽"
+          },
+          {
+            "word": "beef",
+            "phonetic": "[biːf]",
+            "meaning": "牛肉"
+          },
+          {
+            "word": "beer",
+            "phonetic": "[bɪə]",
+            "meaning": "啤酒"
+          },
+          {
+            "word": "behalf",
+            "phonetic": "[bɪ'hɑːf]",
+            "meaning": "代表"
+          },
+          {
+            "word": "behavior",
+            "phonetic": "[bɪ'heɪvjə]",
+            "meaning": "行为"
+          },
+          {
+            "word": "belief",
+            "phonetic": "[bɪ'liːf]",
+            "meaning": "信仰"
+          },
+          {
+            "word": "benefit",
+            "phonetic": "['benɪfɪt]",
+            "meaning": "利益；好处"
+          }
+        ]
+      },
+      {
+        "test": "Test 4",
+        "words": [
+          {
+            "word": "birth",
+            "phonetic": "[bɜːθ]",
+            "meaning": "出生"
+          },
+          {
+            "word": "blade",
+            "phonetic": "[bleɪd]",
+            "meaning": "刀片；叶片"
+          },
+          {
+            "word": "blank",
+            "phonetic": "[blæŋk]",
+            "meaning": "空白"
+          },
+          {
+            "word": "blast",
+            "phonetic": "[blɑːst]",
+            "meaning": "爆炸；一阵"
+          },
+          {
+            "word": "blessing",
+            "phonetic": "['blesɪŋ]",
+            "meaning": "祝福"
+          },
+          {
+            "word": "blouse",
+            "phonetic": "[blaʊz]",
+            "meaning": "女衬衫"
+          },
+          {
+            "word": "board",
+            "phonetic": "[bɔːd]",
+            "meaning": "木板；董事会"
+          },
+          {
+            "word": "boast",
+            "phonetic": "[bəʊst]",
+            "meaning": "自夸"
+          },
+          {
+            "word": "bonus",
+            "phonetic": "['bəʊnəs]",
+            "meaning": "奖金"
+          }
+        ]
+      },
+      {
+        "test": "Test 5",
+        "words": [
+          {
+            "word": "brake",
+            "phonetic": "[breɪk]",
+            "meaning": "刹车"
+          },
+          {
+            "word": "branch",
+            "phonetic": "[brɑːntʃ]",
+            "meaning": "分支；树枝"
+          },
+          {
+            "word": "breast",
+            "phonetic": "[brest]",
+            "meaning": "胸部"
+          },
+          {
+            "word": "breath",
+            "phonetic": "[breθ]",
+            "meaning": "呼吸"
+          },
+          {
+            "word": "brick",
+            "phonetic": "[brɪk]",
+            "meaning": "砖块"
+          },
+          {
+            "word": "bride",
+            "phonetic": "[braɪd]",
+            "meaning": "新娘"
+          },
+          {
+            "word": "brief",
+            "phonetic": "[briːf]",
+            "meaning": "简短的"
+          },
+          {
+            "word": "brilliant",
+            "phonetic": "['brɪliənt]",
+            "meaning": "杰出的"
+          },
+          {
+            "word": "broad",
+            "phonetic": "[brɔːd]",
+            "meaning": "宽阔的"
+          }
+        ]
+      },
+      {
+        "test": "Test 6",
+        "words": [
+          {
+            "word": "broadcast",
+            "phonetic": "['brɔːdkɑːst]",
+            "meaning": "广播"
+          },
+          {
+            "word": "brochure",
+            "phonetic": "[brəʊ'ʃə]",
+            "meaning": "小册子"
+          },
+          {
+            "word": "bronze",
+            "phonetic": "[brɒnz]",
+            "meaning": "青铜"
+          },
+          {
+            "word": "brow",
+            "phonetic": "[braʊ]",
+            "meaning": "眉毛"
+          },
+          {
+            "word": "bubble",
+            "phonetic": "['bʌbl]",
+            "meaning": "气泡"
+          },
+          {
+            "word": "budget",
+            "phonetic": "['bʌdʒɪt]",
+            "meaning": "预算"
+          },
+          {
+            "word": "buffet",
+            "phonetic": "['bʌfeɪ]",
+            "meaning": "自助餐"
+          },
+          {
+            "word": "bulk",
+            "phonetic": "[bʌlk]",
+            "meaning": "大量； bulk cargo散货"
+          },
+          {
+            "word": "bundle",
+            "phonetic": "['bʌndl]",
+            "meaning": "束；捆"
+          }
+        ]
+      },
+      {
+        "test": "Test 7",
+        "words": [
+          {
+            "word": "burden",
+            "phonetic": "['bɜːdn]",
+            "meaning": "负担"
+          },
+          {
+            "word": "bureau",
+            "phonetic": "[bjʊə'rəʊ]",
+            "meaning": "局；办公室"
+          },
+          {
+            "word": "butterfly",
+            "phonetic": "['bʌtəflaɪ]",
+            "meaning": "蝴蝶"
+          },
+          {
+            "word": "cabin",
+            "phonetic": "['kæbɪn]",
+            "meaning": "小木屋；船舱"
+          },
+          {
+            "word": "cable",
+            "phonetic": "['keɪbl]",
+            "meaning": "电缆"
+          },
+          {
+            "word": "café",
+            "phonetic": "['kæfeɪ]",
+            "meaning": "咖啡馆"
+          },
+          {
+            "word": "cage",
+            "phonetic": "[keɪdʒ]",
+            "meaning": "笼子"
+          },
+          {
+            "word": "calendar",
+            "phonetic": "['kælɪndə]",
+            "meaning": "日历"
+          },
+          {
+            "word": "campaign",
+            "phonetic": "[kæm'peɪn]",
+            "meaning": "运动；战役"
+          }
+        ]
+      },
+      {
+        "test": "Test 8",
+        "words": [
+          {
+            "word": "campus",
+            "phonetic": "['kæmpəs]",
+            "meaning": "校园"
+          },
+          {
+            "word": "candle",
+            "phonetic": "['kændl]",
+            "meaning": "蜡烛"
+          },
+          {
+            "word": "capability",
+            "phonetic": "[ˌkeɪpə'bɪləti]",
+            "meaning": "能力"
+          },
+          {
+            "word": "capacity",
+            "phonetic": "[kə'pæsəti]",
+            "meaning": "容量；能力"
+          },
+          {
+            "word": "capital",
+            "phonetic": "['kæpɪtl]",
+            "meaning": "首都；资本"
+          },
+          {
+            "word": "captain",
+            "phonetic": "['kæptɪn]",
+            "meaning": "船长；队长"
+          },
+          {
+            "word": "caption",
+            "phonetic": "['kæpʃn]",
+            "meaning": "标题；字幕"
+          },
+          {
+            "word": "caravan",
+            "phonetic": "['kærəvæn]",
+            "meaning": "大篷车"
+          },
+          {
+            "word": "carbon",
+            "phonetic": "['kɑːbən]",
+            "meaning": "碳"
+          }
+        ]
+      },
+      {
+        "test": "Test 9",
+        "words": [
+          {
+            "word": "career",
+            "phonetic": "[kə'rɪə]",
+            "meaning": "职业"
+          },
+          {
+            "word": "cargo",
+            "phonetic": "['kɑːɡəʊ]",
+            "meaning": "货物"
+          },
+          {
+            "word": "carpenter",
+            "phonetic": "['kɑːpɪntə]",
+            "meaning": "木匠"
+          },
+          {
+            "word": "carriage",
+            "phonetic": "['kærɪdʒ]",
+            "meaning": "运输；马车"
+          },
+          {
+            "word": "carrier",
+            "phonetic": "['kæriə]",
+            "meaning": "载体；航空公司"
+          },
+          {
+            "word": "cartoon",
+            "phonetic": "[kɑː'tuːn]",
+            "meaning": "卡通片"
+          },
+          {
+            "word": "cash",
+            "phonetic": "[kæʃ]",
+            "meaning": "现金"
+          },
+          {
+            "word": "cassette",
+            "phonetic": "[kə'set]",
+            "meaning": "磁带"
+          },
+          {
+            "word": "castle",
+            "phonetic": "['kɑːsl]",
+            "meaning": "城堡"
+          }
+        ]
+      }
+    ],
+    "vertical": []
+  },
+  "chapter4": {
+    "name": "雅思听力形容词副词语料库",
+    "adjectives": [
+      {
+        "test": "Test 1 形容词",
+        "words": [
+          {
+            "word": "abundant",
+            "phonetic": "[ə'bʌndənt]",
+            "meaning": "丰富的"
+          },
+          {
+            "word": "accurate",
+            "phonetic": "['ækjərət]",
+            "meaning": "准确的"
+          },
+          {
+            "word": "adequate",
+            "phonetic": "['ædikwət]",
+            "meaning": "足够的"
+          },
+          {
+            "word": "ancient",
+            "phonetic": "['eɪnʃənt]",
+            "meaning": "古代的"
+          },
+          {
+            "word": "annual",
+            "phonetic": "['ænjuəl]",
+            "meaning": "每年的"
+          },
+          {
+            "word": "apparent",
+            "phonetic": "[ə'pærənt]",
+            "meaning": "明显的"
+          },
+          {
+            "word": "appropriate",
+            "phonetic": "[ə'prəʊpriət]",
+            "meaning": "适当的"
+          },
+          {
+            "word": "arbitrary",
+            "photetic": "['ɑːbɪtrəri]",
+            "meaning": "任意的"
+          },
+          {
+            "word": "artificial",
+            "phonetic": "[ˌɑːtɪ'fɪʃl]",
+            "meaning": "人工的"
+          }
+        ]
+      },
+      {
+        "test": "Test 2 形容词",
+        "words": [
+          {
+            "word": "automatic",
+            "phonetic": "[ˌɔːtə'mætɪk]",
+            "meaning": "自动的"
+          },
+          {
+            "word": "available",
+            "phonetic": "[ə'veɪləbl]",
+            "meaning": "可用的"
+          },
+          {
+            "word": "average",
+            "phonetic": "['ævərɪdʒ]",
+            "meaning": "平均的"
+          },
+          {
+            "word": "awful",
+            "phonetic": "['ɔːfl]",
+            "meaning": "糟糕的"
+          },
+          {
+            "word": "awkward",
+            "phonetic": "['ɔːkwəd]",
+            "meaning": "尴尬的"
+          },
+          {
+            "word": "background",
+            "phonetic": "['bækɡraʊnd]",
+            "meaning": "背景的"
+          },
+          {
+            "word": "basic",
+            "phonetic": "['beɪsɪk]",
+            "meaning": "基础的"
+          },
+          {
+            "word": "beneficial",
+            "phonetic": "[ˌbenɪ'fɪʃl]",
+            "meaning": "有益的"
+          },
+          {
+            "word": "bold",
+            "phonetic": "[bəʊld]",
+            "meaning": "大胆的"
+          }
+        ]
+      },
+      {
+        "test": "Test 3 形容词",
+        "words": [
+          {
+            "word": "brief",
+            "phonetic": "[briːf]",
+            "meaning": "简短的"
+          },
+          {
+            "word": "brilliant",
+            "phonetic": "['brɪliənt]",
+            "meaning": "杰出的"
+          },
+          {
+            "word": "capable",
+            "phonetic": "['keɪpəbl]",
+            "meaning": "有能力的"
+          },
+          {
+            "word": "careful",
+            "phonetic": "['keəfl]",
+            "meaning": "仔细的"
+          },
+          {
+            "word": "casual",
+            "phonetic": "['kæʒuəl]",
+            "meaning": "随意的"
+          },
+          {
+            "word": "central",
+            "phonetic": "['sentrəl]",
+            "meaning": "中心的"
+          },
+          {
+            "word": "certain",
+            "phonetic": "['sɜːtn]",
+            "meaning": "确定的"
+          },
+          {
+            "word": "characteristic",
+            "phonetic": "[ˌkærəktə'rɪstɪk]",
+            "meaning": "典型的"
+          },
+          {
+            "word": "civil",
+            "phonetic": "['sɪvl]",
+            "meaning": "公民的"
+          }
+        ]
+      }
+    ],
+    "adverbs": [
+      {
+        "test": "Test 副词",
+        "words": [
+          {
+            "word": "absolutely",
+            "phonetic": "['æbsəluːtli]",
+            "meaning": "绝对地"
+          },
+          {
+            "word": "apparently",
+            "phonetic": "[ə'pærəntli]",
+            "meaning": "显然地"
+          },
+          {
+            "word": "approximately",
+            "phonetic": "[ə'prɒksɪmətli]",
+            "meaning": "大约地"
+          },
+          {
+            "word": "automatically",
+            "phonetic": "[ˌɔːtə'mætɪkli]",
+            "meaning": "自动地"
+          },
+          {
+            "word": "awfully",
+            "phonetic": "['ɔːfli]",
+            "meaning": "非常"
+          },
+          {
+            "word": "barely",
+            "phonetic": "['beəli]",
+            "meaning": "仅仅"
+          },
+          {
+            "word": "briefly",
+            "phonetic": "['briːfli]",
+            "meaning": "简短地"
+          },
+          {
+            "word": "certainly",
+            "phonetic": "['sɜːtnli]",
+            "meaning": "当然地"
+          },
+          {
+            "word": "clearly",
+            "phonetic": "['klɪəli",
+            "meaning": "清楚地"
+          }
+        ]
+      }
+    ]
+  }
+}
