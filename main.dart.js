@@ -27696,7 +27696,7 @@ return q}catch(p){q=A.a6(p)
 if(q instanceof A.uT){s=q
 throw A.h(A.aQG("Invalid "+a+": "+s.a,s.b,s.gx5()))}else if(t.bE.b(q)){r=q
 throw A.h(A.bZ("Invalid "+a+' "'+b+'": '+r.gvY(),r.gx5(),r.gcL()))}else throw p}},
-aMa(){return A.aBR("YOUR_API_KEY","YOUR_APP_ID","ielts-vocab.firebaseapp.com",null,null,null,"YOUR_SENDER_ID","ielts-vocab","ielts-vocab.appspot.com")},
+aMa(){return A.aBR("AIzaSyDuAODoA_NGKi2e0CnOzP0meTb2LEatkJI","1:930656635367:web:2267136adec22cf03bd542","ielts-vocab-50927.firebaseapp.com",null,null,null,"930656635367","ielts-vocab-50927","ielts-vocab-50927.firebasestorage.app")},
 a8C(){var s=0,r=A.x(t.a),q,p
 var $async$a8C=A.y(function(a,b){if(a===1)return A.u(b,r)
 for(;;)switch(s){case 0:p=B.bQ
